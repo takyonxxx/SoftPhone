@@ -1,4 +1,4 @@
-# SoftPhone VoIp Phone Asterisk Ed137 Pjsip
+# SoftPhone VOIP Asterisk Ed137 Pjsip PBX phone
 Softphone is SIP-based virtual PBX software supports ed137 devices.
 
 Softphone has a Fast Fourier Transform (FFT) plotter sample on it, signal catch from rtp packets.
